@@ -1,0 +1,126 @@
+
+=== DEBUG 1 ===
+solution_str: '{"work": 1.0, "consumption": 0.50}'
+extra_info: {'agent_id': 5, 'buffer_ratio': 1.9952887857693669, 'dpi': 7070.034558406859, 'gdp_growth': -3.869434519263314, 'gt_consumption': 0.5, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 1290.7192829026367, 'job_status': 'House Cleaner', 'lump_sum': 5919.0256909464315, 'price_inflation': -8.5493627325
+[001] sr=0.500 sr_r=0.671 | buf=2.00 work=1.00 alpha=0.09 poor_str=0.91 work_r=-0.500 | cons=0.50 cons_r=0.95 regime=recession rs=0.39 | total=0.131
+
+=== DEBUG 2 ===
+solution_str: '{"work": 1, "consumption": 0.58}'
+extra_info: {'agent_id': 55, 'buffer_ratio': 1.7705946156831682, 'dpi': 19401.9750814351, 'gdp_growth': -2.8690224559988744, 'gt_consumption': 0.54, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 16830.32200302763, 'job_status': 'Insurance Agent', 'lump_sum': 6399.1796320223, 'price_inflation': -5.0398519993
+[002] sr=0.420 sr_r=0.807 | buf=1.77 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.58 cons_r=0.52 regime=recession rs=0.60 | total=0.065
+
+=== DEBUG 3 ===
+solution_str: '{"work": 1.0, "consumption": 0.50}'
+extra_info: {'agent_id': 23, 'buffer_ratio': 2.388565258659649, 'dpi': 10411.884374651441, 'gdp_growth': -2.713924153105827, 'gt_consumption': 0.44, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 5298.675089419547, 'job_status': 'Data Entry Clerk', 'lump_sum': 5941.470727994198, 'price_inflation': -6.9391638
+[003] sr=0.500 sr_r=0.671 | buf=2.39 work=1.00 alpha=0.29 poor_str=0.71 work_r=-0.500 | cons=0.50 cons_r=0.90 regime=normal rs=0.15 | total=0.088
+
+=== DEBUG 4 ===
+solution_str: '{"work": 1, "consumption": 0.30}'
+extra_info: {'agent_id': 68, 'buffer_ratio': 4.174582087778301, 'dpi': 24573.152476610107, 'gdp_growth': 4.1681696130130526, 'gt_consumption': 0.26, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 25199.69929383196, 'job_status': 'Pharmacist', 'lump_sum': 6174.9201630760645, 'price_inflation': 8.8667118356416
+[004] sr=0.700 sr_r=-0.171 | buf=4.17 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.30 cons_r=0.54 regime=normal rs=0.15 | total=-0.132
+
+=== DEBUG 1 ===
+solution_str: '{"work": 1.0, "consumption": 0.50}'
+extra_info: {'agent_id': 5, 'buffer_ratio': 1.9952887857693669, 'dpi': 7070.034558406859, 'gdp_growth': -3.869434519263314, 'gt_consumption': 0.5, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 1290.7192829026367, 'job_status': 'House Cleaner', 'lump_sum': 5919.0256909464315, 'price_inflation': -8.5493627325
+[001] sr=0.500 sr_r=0.671 | buf=2.00 work=1.00 alpha=0.09 poor_str=0.91 work_r=-0.500 | cons=0.50 cons_r=0.95 regime=recession rs=0.39 | total=0.131
+
+=== DEBUG 2 ===
+solution_str: '{"work": 1, "consumption": 0.58}'
+extra_info: {'agent_id': 55, 'buffer_ratio': 1.7705946156831682, 'dpi': 19401.9750814351, 'gdp_growth': -2.8690224559988744, 'gt_consumption': 0.54, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 16830.32200302763, 'job_status': 'Insurance Agent', 'lump_sum': 6399.1796320223, 'price_inflation': -5.0398519993
+[002] sr=0.420 sr_r=0.807 | buf=1.77 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.58 cons_r=0.52 regime=recession rs=0.60 | total=0.065
+
+=== DEBUG 3 ===
+solution_str: '{"work": 1.0, "consumption": 0.50}'
+extra_info: {'agent_id': 23, 'buffer_ratio': 2.388565258659649, 'dpi': 10411.884374651441, 'gdp_growth': -2.713924153105827, 'gt_consumption': 0.44, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 5298.675089419547, 'job_status': 'Data Entry Clerk', 'lump_sum': 5941.470727994198, 'price_inflation': -6.9391638
+[003] sr=0.500 sr_r=0.671 | buf=2.39 work=1.00 alpha=0.29 poor_str=0.71 work_r=-0.500 | cons=0.50 cons_r=0.90 regime=normal rs=0.15 | total=0.088
+
+=== DEBUG 4 ===
+solution_str: '{"work": 1, "consumption": 0.30}'
+extra_info: {'agent_id': 68, 'buffer_ratio': 4.174582087778301, 'dpi': 24573.152476610107, 'gdp_growth': 4.1681696130130526, 'gt_consumption': 0.26, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 25199.69929383196, 'job_status': 'Pharmacist', 'lump_sum': 6174.9201630760645, 'price_inflation': 8.8667118356416
+[004] sr=0.700 sr_r=-0.171 | buf=4.17 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.30 cons_r=0.54 regime=normal rs=0.15 | total=-0.132
+
+=== DEBUG 5 ===
+solution_str: '{"work": 1, "consumption": 0.2}'
+extra_info: {'agent_id': 7, 'buffer_ratio': 3.769916989262593, 'dpi': 8105.567465738887, 'gdp_growth': 3.818403602745367, 'gt_consumption': 0.4, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 1837.8249951078149, 'job_status': 'Volunteer', 'lump_sum': 6473.125603460815, 'price_inflation': 7.243966760984767, '
+[005] sr=0.800 sr_r=-0.341 | buf=3.77 work=1.00 alpha=0.96 poor_str=0.04 work_r=-0.500 | cons=0.20 cons_r=0.83 regime=normal rs=0.15 | total=-0.095
+[006] sr=0.700 sr_r=-0.171 | buf=3.26 work=1.00 alpha=0.71 poor_str=0.29 work_r=-0.500 | cons=0.30 cons_r=0.96 regime=recession rs=0.29 | total=-0.015
+
+=== DEBUG 1 ===
+solution_str: '{"work": 1.0, "consumption": 0.50}'
+extra_info: {'agent_id': 5, 'buffer_ratio': 1.9952887857693669, 'dpi': 7070.034558406859, 'gdp_growth': -3.869434519263314, 'gt_consumption': 0.5, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 1290.7192829026367, 'job_status': 'House Cleaner', 'lump_sum': 5919.0256909464315, 'price_inflation': -8.5493627325
+[001] sr=0.500 sr_r=0.671 | buf=2.00 work=1.00 alpha=0.09 poor_str=0.91 work_r=-0.500 | cons=0.50 cons_r=0.95 regime=recession rs=0.39 | total=0.131
+
+=== DEBUG 2 ===
+solution_str: '{"work": 1, "consumption": 0.58}'
+extra_info: {'agent_id': 55, 'buffer_ratio': 1.7705946156831682, 'dpi': 19401.9750814351, 'gdp_growth': -2.8690224559988744, 'gt_consumption': 0.54, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 16830.32200302763, 'job_status': 'Insurance Agent', 'lump_sum': 6399.1796320223, 'price_inflation': -5.0398519993
+[002] sr=0.420 sr_r=0.807 | buf=1.77 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.58 cons_r=0.52 regime=recession rs=0.60 | total=0.065
+
+=== DEBUG 3 ===
+solution_str: '{"work": 1.0, "consumption": 0.50}'
+extra_info: {'agent_id': 23, 'buffer_ratio': 2.388565258659649, 'dpi': 10411.884374651441, 'gdp_growth': -2.713924153105827, 'gt_consumption': 0.44, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 5298.675089419547, 'job_status': 'Data Entry Clerk', 'lump_sum': 5941.470727994198, 'price_inflation': -6.9391638
+[003] sr=0.500 sr_r=0.671 | buf=2.39 work=1.00 alpha=0.29 poor_str=0.71 work_r=-0.500 | cons=0.50 cons_r=0.90 regime=normal rs=0.15 | total=0.088
+
+=== DEBUG 4 ===
+solution_str: '{"work": 1, "consumption": 0.30}'
+extra_info: {'agent_id': 68, 'buffer_ratio': 4.174582087778301, 'dpi': 24573.152476610107, 'gdp_growth': 4.1681696130130526, 'gt_consumption': 0.26, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 25199.69929383196, 'job_status': 'Pharmacist', 'lump_sum': 6174.9201630760645, 'price_inflation': 8.8667118356416
+[004] sr=0.700 sr_r=-0.171 | buf=4.17 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.30 cons_r=0.54 regime=normal rs=0.15 | total=-0.132
+
+=== DEBUG 5 ===
+solution_str: '{"work": 1, "consumption": 0.3}'
+extra_info: {'agent_id': 4, 'buffer_ratio': 3.2607588740884728, 'dpi': 7935.053712293339, 'gdp_growth': -0.3237204631221494, 'gt_consumption': 0.3, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 1280.9110424759588, 'job_status': 'Lawn Mower', 'lump_sum': 6791.689072040446, 'price_inflation': -0.7070185987859
+[005] sr=0.700 sr_r=-0.171 | buf=3.26 work=1.00 alpha=0.71 poor_str=0.29 work_r=-0.500 | cons=0.30 cons_r=0.96 regime=recession rs=0.29 | total=-0.015
+[006] sr=0.700 sr_r=-0.171 | buf=3.77 work=1.00 alpha=0.96 poor_str=0.04 work_r=-0.500 | cons=0.30 cons_r=0.67 regime=normal rs=0.15 | total=-0.099
+[007] sr=0.600 sr_r=0.500 | buf=2.50 work=0.80 alpha=0.34 poor_str=0.66 work_r=0.000 | cons=0.40 cons_r=0.82 regime=recession rs=0.88 | total=0.352
+[008] sr=0.020 sr_r=0.510 | buf=1.86 work=0.98 alpha=0.03 poor_str=0.97 work_r=0.000 | cons=0.98 cons_r=-1.00 regime=recession rs=0.30 | total=-0.322
+[009] sr=0.880 sr_r=-0.478 | buf=7.20 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.12 cons_r=-1.02 regime=boom rs=0.56 | total=-0.556
+[010] sr=0.400 sr_r=0.841 | buf=1.66 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.60 cons_r=0.90 regime=normal rs=0.15 | total=0.119
+[011] sr=0.700 sr_r=-0.171 | buf=3.32 work=1.00 alpha=0.74 poor_str=0.26 work_r=-0.500 | cons=0.30 cons_r=0.93 regime=normal rs=0.15 | total=-0.049
+[012] sr=0.400 sr_r=0.841 | buf=1.80 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.60 cons_r=0.90 regime=normal rs=0.15 | total=0.122
+[013] sr=0.400 sr_r=0.841 | buf=1.85 work=0.80 alpha=0.02 poor_str=0.98 work_r=0.000 | cons=0.60 cons_r=0.57 regime=recession rs=0.31 | total=0.282
+[014] sr=0.460 sr_r=0.739 | buf=1.75 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.54 cons_r=0.94 regime=recession rs=0.22 | total=0.120
+[015] sr=0.760 sr_r=-0.273 | buf=3.47 work=0.80 alpha=0.82 poor_str=0.18 work_r=0.000 | cons=0.24 cons_r=0.92 regime=recession rs=0.26 | total=0.185
+[016] sr=0.460 sr_r=0.739 | buf=1.65 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.54 cons_r=0.95 regime=recession rs=0.33 | total=0.149
+[017] sr=0.760 sr_r=-0.273 | buf=4.04 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.24 cons_r=0.46 regime=recession rs=0.60 | total=-0.112
+[018] sr=0.500 sr_r=0.671 | buf=2.18 work=1.00 alpha=0.18 poor_str=0.82 work_r=-0.500 | cons=0.50 cons_r=0.86 regime=recession rs=0.40 | total=0.115
+[019] sr=0.760 sr_r=-0.273 | buf=5.25 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.24 cons_r=0.95 regime=normal rs=0.15 | total=-0.065
+[020] sr=0.400 sr_r=0.841 | buf=2.35 work=1.00 alpha=0.27 poor_str=0.73 work_r=-0.500 | cons=0.60 cons_r=0.40 regime=boom rs=0.33 | total=0.030
+
+=== DEBUG 1 ===
+solution_str: '{"work": 1, "consumption": 0.50}'
+extra_info: {'agent_id': 5, 'buffer_ratio': 1.9952887857693669, 'dpi': 7070.034558406859, 'gdp_growth': -3.869434519263314, 'gt_consumption': 0.5, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 1290.7192829026367, 'job_status': 'House Cleaner', 'lump_sum': 5919.0256909464315, 'price_inflation': -8.5493627325
+[001] sr=0.500 sr_r=0.671 | buf=2.00 work=1.00 alpha=0.09 poor_str=0.91 work_r=-0.500 | cons=0.50 cons_r=0.95 regime=recession rs=0.39 | total=0.131
+
+=== DEBUG 2 ===
+solution_str: '{"work": 1.0, "consumption": 0.50}'
+extra_info: {'agent_id': 5, 'buffer_ratio': 1.9952887857693669, 'dpi': 7070.034558406859, 'gdp_growth': -3.869434519263314, 'gt_consumption': 0.5, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 1290.7192829026367, 'job_status': 'House Cleaner', 'lump_sum': 5919.0256909464315, 'price_inflation': -8.5493627325
+[002] sr=0.500 sr_r=0.671 | buf=2.00 work=1.00 alpha=0.09 poor_str=0.91 work_r=-0.500 | cons=0.50 cons_r=0.95 regime=recession rs=0.39 | total=0.131
+
+=== DEBUG 3 ===
+solution_str: '{"work": 1, "consumption": 0.6}'
+extra_info: {'agent_id': 55, 'buffer_ratio': 1.7705946156831682, 'dpi': 19401.9750814351, 'gdp_growth': -2.8690224559988744, 'gt_consumption': 0.54, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 16830.32200302763, 'job_status': 'Insurance Agent', 'lump_sum': 6399.1796320223, 'price_inflation': -5.0398519993
+[003] sr=0.400 sr_r=0.841 | buf=1.77 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.60 cons_r=0.26 regime=recession rs=0.60 | total=-0.002
+
+=== DEBUG 4 ===
+solution_str: '{"work": 1.0, "consumption": 0.60}'
+extra_info: {'agent_id': 55, 'buffer_ratio': 1.7705946156831682, 'dpi': 19401.9750814351, 'gdp_growth': -2.8690224559988744, 'gt_consumption': 0.54, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 16830.32200302763, 'job_status': 'Insurance Agent', 'lump_sum': 6399.1796320223, 'price_inflation': -5.0398519993
+[004] sr=0.400 sr_r=0.841 | buf=1.77 work=1.00 alpha=0.00 poor_str=1.00 work_r=-0.500 | cons=0.60 cons_r=0.26 regime=recession rs=0.60 | total=-0.002
+
+=== DEBUG 5 ===
+solution_str: '{"work": 0.84, "consumption": 0.62}'
+extra_info: {'agent_id': 55, 'buffer_ratio': 1.7705946156831682, 'dpi': 19401.9750814351, 'gdp_growth': -2.8690224559988744, 'gt_consumption': 0.54, 'gt_employed': 1, 'gt_labor_supply': 1, 'income': 16830.32200302763, 'job_status': 'Insurance Agent', 'lump_sum': 6399.1796320223, 'price_inflation': -5.0398519993
+[005] sr=0.380 sr_r=0.875 | buf=1.77 work=0.84 alpha=0.00 poor_str=1.00 work_r=0.000 | cons=0.62 cons_r=-0.08 regime=recession rs=0.60 | total=0.132
+[006] sr=0.400 sr_r=0.841 | buf=1.77 work=0.80 alpha=0.00 poor_str=1.00 work_r=0.000 | cons=0.60 cons_r=0.26 regime=recession rs=0.60 | total=0.216
+[007] sr=0.500 sr_r=0.671 | buf=2.00 work=0.98 alpha=0.09 poor_str=0.91 work_r=0.000 | cons=0.50 cons_r=0.95 regime=recession rs=0.39 | total=0.327
+[008] sr=0.500 sr_r=0.671 | buf=2.00 work=1.00 alpha=0.09 poor_str=0.91 work_r=-0.500 | cons=0.50 cons_r=0.95 regime=recession rs=0.39 | total=0.131
+[009] sr=0.580 sr_r=0.534 | buf=2.39 work=1.00 alpha=0.29 poor_str=0.71 work_r=-0.500 | cons=0.42 cons_r=0.71 regime=normal rs=0.15 | total=0.023
+[010] sr=0.400 sr_r=0.841 | buf=2.39 work=1.00 alpha=0.29 poor_str=0.71 work_r=-0.500 | cons=0.60 cons_r=-0.32 regime=normal rs=0.15 | total=-0.140
+[011] sr=0.700 sr_r=-0.171 | buf=4.17 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.30 cons_r=0.54 regime=normal rs=0.15 | total=-0.132
+[012] sr=0.700 sr_r=-0.171 | buf=4.17 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.30 cons_r=0.54 regime=normal rs=0.15 | total=-0.132
+[013] sr=0.700 sr_r=-0.171 | buf=4.17 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.30 cons_r=0.54 regime=normal rs=0.15 | total=-0.132
+[014] sr=0.700 sr_r=-0.171 | buf=4.17 work=1.00 alpha=1.00 poor_str=0.00 work_r=-0.500 | cons=0.30 cons_r=0.54 regime=normal rs=0.15 | total=-0.132
+[015] sr=0.500 sr_r=0.671 | buf=2.39 work=1.00 alpha=0.29 poor_str=0.71 work_r=-0.500 | cons=0.50 cons_r=0.90 regime=normal rs=0.15 | total=0.088
+[016] sr=0.420 sr_r=0.807 | buf=2.39 work=1.00 alpha=0.29 poor_str=0.71 work_r=-0.500 | cons=0.58 cons_r=0.06 regime=normal rs=0.15 | total=-0.067
+[017] sr=0.700 sr_r=-0.171 | buf=3.77 work=1.00 alpha=0.96 poor_str=0.04 work_r=-0.500 | cons=0.30 cons_r=0.67 regime=normal rs=0.15 | total=-0.099
+[018] sr=0.700 sr_r=-0.171 | buf=3.77 work=1.00 alpha=0.96 poor_str=0.04 work_r=-0.500 | cons=0.30 cons_r=0.67 regime=normal rs=0.15 | total=-0.099
+[019] sr=0.620 sr_r=-0.034 | buf=3.26 work=1.00 alpha=0.71 poor_str=0.29 work_r=-0.500 | cons=0.38 cons_r=0.37 regime=recession rs=0.29 | total=-0.127
+[020] sr=0.700 sr_r=-0.171 | buf=3.77 work=1.00 alpha=0.96 poor_str=0.04 work_r=-0.500 | cons=0.30 cons_r=0.67 regime=normal rs=0.15 | total=-0.099

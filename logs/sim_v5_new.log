@@ -1,0 +1,17 @@
+INFO 12-17 05:10:55 [__init__.py:239] Automatically detected platform cuda.
+Traceback (most recent call last):
+  File "/workspace/QWEN2.5_42_GRPO_700step-/QWEN2.5_42_GRPO_1/simulate.py", line 543, in <module>
+    fire.Fire(main)
+  File "/venv/main/lib/python3.12/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/main/lib/python3.12/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/venv/main/lib/python3.12/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/QWEN2.5_42_GRPO_700step-/QWEN2.5_42_GRPO_1/simulate.py", line 505, in main
+    policy_model_save = f'{policy_model_save}-{num_agents}agents-{episode_length}months'
+                           ^^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'policy_model_save' where it is not associated with a value

@@ -1,0 +1,12 @@
+metric,value
+Real US CPI mean,0.021569500000000005
+Real US CPI min,-0.00356
+Real US CPI max,0.039
+Real US CPI max volatility,0.04195
+Simulated mean,0.017927804499251954
+Simulated min,-0.07662328529559885
+Simulated max,0.1073915836576055
+Violations below bound,5
+Violations above bound,4
+Total violations,9
+Violation rate,0.47368421052631576
